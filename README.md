@@ -185,6 +185,7 @@ J 0 <br>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
 ## OUTPUT:
+<img width="1277" height="612" alt="image" src="https://github.com/user-attachments/assets/e91d773b-bd47-4507-88af-606c4fab9b0f" />
 
 
 <hr>
@@ -214,3 +215,11 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+## OUTPUT : 
+
+<img width="1225" height="330" alt="image" src="https://github.com/user-attachments/assets/131c8881-a607-4eb4-8869-33947fc5f3c6" />
+
+## RESULT :
+Sccessfully implemented A* search algorithm for a Graph
+
